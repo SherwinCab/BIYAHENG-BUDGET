@@ -1,3 +1,5 @@
+package transport;
+
 // Parent class of all transport types (Abstraction + Encapsulation)
 public abstract class Transport {
     private String name;

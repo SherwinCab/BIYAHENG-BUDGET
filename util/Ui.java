@@ -1,3 +1,5 @@
+package util;
+
 // Helper methods that draw boxes, rows, and bars in the console (plain ASCII, works on any terminal)
 public class Ui {
     public static final int WIDTH = 56;

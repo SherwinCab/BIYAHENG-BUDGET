@@ -1,3 +1,13 @@
+import model.Trip;
+import model.Stop;
+import transport.Transport;
+import transport.Jeepney;
+import transport.Tricycle;
+import passenger.Passenger;
+import passenger.RegularPassenger;
+import passenger.StudentPassenger;
+import util.Ui;
+
 import java.util.Scanner;
 
 public class Main {

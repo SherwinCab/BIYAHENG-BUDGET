@@ -1,3 +1,13 @@
+import model.Trip;
+import model.Stop;
+import transport.Transport;
+import transport.Jeepney;
+import transport.Tricycle;
+import passenger.Passenger;
+import passenger.RegularPassenger;
+import passenger.StudentPassenger;
+import util.Ui;
+
 import javax.swing.*;
 import javax.swing.border.CompoundBorder;
 import javax.swing.border.EmptyBorder;

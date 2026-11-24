@@ -1,3 +1,5 @@
+package passenger;
+
 // Inheritance: RegularPassenger extends Passenger
 public class RegularPassenger extends Passenger {
     public RegularPassenger() {

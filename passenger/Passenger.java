@@ -1,3 +1,5 @@
+package passenger;
+
 // Parent class of all passenger types (Abstraction)
 public abstract class Passenger {
     private String type;

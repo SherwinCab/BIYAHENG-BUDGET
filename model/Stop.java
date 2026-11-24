@@ -1,3 +1,7 @@
+package model;
+import passenger.Passenger;
+
+
 import java.util.ArrayList;
 
 // One drop-off point. One or more passengers can get off here.

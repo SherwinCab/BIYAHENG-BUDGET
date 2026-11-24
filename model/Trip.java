@@ -1,3 +1,9 @@
+package model;
+import transport.Transport;
+import passenger.Passenger;
+import util.Ui;
+
+
 import java.util.ArrayList;
 
 // One ride of a group. Passengers ride together but get off at different stops.

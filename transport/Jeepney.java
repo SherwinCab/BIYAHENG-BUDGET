@@ -1,3 +1,5 @@
+package transport;
+
 // Inheritance: Jeepney extends Transport
 public class Jeepney extends Transport {
     private static final double FIRST_KM = 4;      // base fare covers first 4 km

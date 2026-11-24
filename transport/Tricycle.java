@@ -1,3 +1,5 @@
+package transport;
+
 // Inheritance: Tricycle extends Transport
 public class Tricycle extends Transport {
     private static final double FIRST_KM = 2;      // base fare covers first 2 km

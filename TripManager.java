@@ -1,3 +1,6 @@
+import model.Trip;
+import util.Ui;
+
 import java.util.ArrayList;
 
 // Manages all trips and the budget
